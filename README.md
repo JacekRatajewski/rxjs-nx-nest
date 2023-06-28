@@ -6,6 +6,7 @@ Key frameworks: [RxJS](https://rxjs.dev/), [Angular](https://angular.io/), [Nest
 
 To run project:
 
+    todoapp\apps\api>npm i
     todoapp\apps\api>nest start
     todoapp\apps\todoapp>npm start
 
